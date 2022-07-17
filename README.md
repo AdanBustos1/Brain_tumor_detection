@@ -1,6 +1,6 @@
 <h1 align="center">DEEP LEARNING MODEL FOR BRAIN TUMORS DETECTION</h1>
 
-![screenshot](\img\EXAMPLE.jpg)
+<img src="/img/EXAMPLE.jpg" alt="brain"/>
 
 <h2 align="center">Project with neural networks to practice my skills
 </h2>
